@@ -1,4 +1,3 @@
-https://huggingface.co/datasets/dair-ai/emotion/viewer/split/train?p=4
 https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset
 https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text/data
 https://huggingface.co/datasets/dair-ai/emotion
