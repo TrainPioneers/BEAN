@@ -12,7 +12,7 @@ class Neuron:
     def forward(self, x: np.array) -> float:
         """Calculate the output of the neuron and pass through the activation function."""
         z = np.dot(self.w, x) + self.b  # weighted sum + bias
-        return self.sigmoid(z)  # activation function
+        return self.activation(z)  # activation function
 
     def backward(self, x: np.array, y_true: float, output: float) -> None:
         """Update the weights and bias based on the gradient of the loss."""
